@@ -3,7 +3,8 @@
 [Twitter Public Database](https://www.docnow.io/catalog/)  
 [Where To Get Twitter Data For Academic Research](https://gwu-libraries.github.io/sfm-ui/posts/2017-09-14-twitter-data)
 (It seems like a lot of available data is only for Tweet IDs, so we will need to use Tweepy in Python to manually look up all of them?)  
-[7-zip for opening GZIP File Extensions](https://www.7-zip.org/)
+[7-zip for opening GZIP File Extensions](https://www.7-zip.org/)  
+[Looking up Tweets manually by their IDs (without using an API)](https://www.bram.us/2017/11/22/accessing-a-tweet-using-only-its-id-and-without-the-twitter-api/)
 
 1) mine all of Trump's tweets, see what his most commonly used words are, favorite subjects, etc.  
 Could also see if his language patterns/preferred topics have changed over time. 
