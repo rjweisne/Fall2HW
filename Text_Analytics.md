@@ -2,14 +2,17 @@
 
 [Twitter Public Database](https://www.docnow.io/catalog/)  
 [Where To Get Twitter Data For Academic Research](https://gwu-libraries.github.io/sfm-ui/posts/2017-09-14-twitter-data)
-(It seems like a lot of available data is only for Tweet IDs, so we will need to use Tweepy in Python to manually look up all of them?)
+(It seems like a lot of available data is only for Tweet IDs, so we will need to use Tweepy in Python to manually look up all of them?)  
+[7-zip for opening GZIP File Extensions](https://www.7-zip.org/)
 
 1) mine all of Trump's tweets, see what his most commonly used words are, favorite subjects, etc.  
 Could also see if his language patterns/preferred topics have changed over time. 
 
 2) tweets directed *to* Trump.
 
-3) Notre Dame Cathedral Fire
+3) [Notre Dame Cathedral Fire](https://digital.library.unt.edu/ark:/67531/metadc1477117/m1/)
+
+4) [Fake News Tweets](https://archive.org/details/fakenews-tweets)
 
 #### Tweepy Code for Looking Up Tweets by their IDs ([stackoverflow thread](https://stackoverflow.com/questions/44581647/retrieving-a-list-of-tweets-using-tweet-id-in-tweepy))
 ```
