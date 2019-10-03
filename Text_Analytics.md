@@ -15,7 +15,9 @@ Could also see if his language patterns/preferred topics have changed over time.
 
 4) ~~[Fake News Tweets](https://archive.org/details/fakenews-tweets)~~
 
-#### Tweepy Code for Looking Up Tweets by their IDs ([stackoverflow thread](https://stackoverflow.com/questions/44581647/retrieving-a-list-of-tweets-using-tweet-id-in-tweepy))
+#### Tweepy Code for Looking Up Tweets by their IDs ([stackoverflow thread](https://stackoverflow.com/questions/44581647/retrieving-a-list-of-tweets-using-tweet-id-in-tweepy))  
+* *can only look up 100 tweets every 15 minutes*
+
 ```
 import tweepy
 
