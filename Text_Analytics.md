@@ -52,3 +52,5 @@ for tweet in results:
     if tweet:
         print tweet.text
 ```
+# Update | 10/2/19   
+![Evidently,  you need to submit an application and be approved before using Twitter's API...](C:\Pictures\wait for twitter API.PNG)
