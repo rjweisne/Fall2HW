@@ -55,4 +55,6 @@ for tweet in results:
         print tweet.text
 ```
 ### Update | 10/2/19   
-![Evidently,  you need to submit an application and be approved before using Twitter's API...](https://github.com/rjweisne/Fall2HW/blob/master/wait%20for%20twitter%20API.PNG)
+![Evidently,  you need to submit an application and be approved before using Twitter's API...](https://github.com/rjweisne/Fall2HW/blob/master/wait%20for%20twitter%20API.PNG)  
+### Update | 10/3/19  
+Approved and now have access to API.
