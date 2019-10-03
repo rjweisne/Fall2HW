@@ -13,7 +13,7 @@ Could also see if his language patterns/preferred topics have changed over time.
 
 3) [Notre Dame Cathedral Fire](https://digital.library.unt.edu/ark:/67531/metadc1477117/m1/)
 
-4) [Fake News Tweets](https://archive.org/details/fakenews-tweets)
+4) ~~[Fake News Tweets](https://archive.org/details/fakenews-tweets)~~
 
 #### Tweepy Code for Looking Up Tweets by their IDs ([stackoverflow thread](https://stackoverflow.com/questions/44581647/retrieving-a-list-of-tweets-using-tweet-id-in-tweepy))
 ```
