@@ -11,7 +11,7 @@ Could also see if his language patterns/preferred topics have changed over time.
 
 2) tweets directed *to* Trump.
 
-3) [Notre Dame Cathedral Fire](https://digital.library.unt.edu/ark:/67531/metadc1477117/m1/)
+3) [Notre Dame Cathedral Fire (download the file that says notre-dame-fire-ids)](https://digital.library.unt.edu/ark:/67531/metadc1477117/m1/)
 
 4) ~~[Fake News Tweets](https://archive.org/details/fakenews-tweets)~~
 
